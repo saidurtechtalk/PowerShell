@@ -1,0 +1,5 @@
+"Time","ServerName","ServiceName","DisplayName","Status","ServiceType"
+"06/15/2021 12:34:32","DESKTOP-PD1U5FR","MSSQL$PRODNY","SQL Server (PRODNY)","Stopped","Win32OwnProcess"
+"06/15/2021 12:34:32","DESKTOP-PD1U5FR","SQLAgent$PRODNY","SQL Server Agent (PRODNY)","Stopped","Win32OwnProcess"
+"06/15/2021 12:34:32","DESKTOP-PD1U5FR","MSSQL$PRODUSA","SQL Server (PRODUSA)","Stopped","Win32OwnProcess"
+"06/15/2021 12:34:32","DESKTOP-PD1U5FR","SQLAgent$PRODUSA","SQL Server Agent (PRODUSA)","Stopped","Win32OwnProcess"
